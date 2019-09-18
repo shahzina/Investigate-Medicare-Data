@@ -1,4 +1,4 @@
-# Project-1
+# Investigate Medicare Dataset from 2014
 
 This project explores and analyses health data from 2014 focussing on the home health agencies that provide medicare services. The dataset provides us information about the providers such as their names and geographical locations but it also describes patient-related data like, LUPA and non-LUPA beneficiaries, categorizing patients according to their race and diseases, etc..The datasets were procured from kaggle and then cleaned and downloaded from there using google BigQuery, all other cleaning and wrangling was done in a jupyter notebook.  
 
