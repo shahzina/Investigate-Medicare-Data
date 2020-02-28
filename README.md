@@ -5,4 +5,4 @@ This project explores and analyses health data from 2014 focussing on the home h
 Pandas, numpy, matplotlib, seaborn, uszipcode library, scipy and gmaps are the tools used to analyze the data. The file "Project 1- code" has the code used for data exploration and visualization and the file "Project 1- essay" has the explanation and inferences from the resulting data, charts and graphs. 
 
 The following image shows the distribution of agencies across the country:
-![agencies]https://github.com/shahzina/Investigate-Medicare-Data/blob/master/images/._agencies_by_state.png
+![agencies](https://github.com/shahzina/Investigate-Medicare-Data/blob/master/images/._agencies_by_state.png)
