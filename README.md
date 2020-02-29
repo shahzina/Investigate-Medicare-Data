@@ -23,3 +23,10 @@ There are 5 races that have been identified and the remaining have been clubbed 
  
 The following heatmap shows the distribution and concentration of agencies in the US. Due to missing data, some areas seem completely devoid of an agency. 
 ![heatmap](https://github.com/shahzina/Investigate-Medicare-Data/blob/master/images/map.png)
+
+
+### Results of Regression Analysis - <br>
+1- Slope of line is negative implying a negative relationship between both variables. <br>
+2- r value is also negative. <br>
+3- slope of line is -10.56.  <br>
+4- standard error is 0.56. <br>
