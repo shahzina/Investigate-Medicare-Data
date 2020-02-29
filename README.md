@@ -13,10 +13,13 @@ The following histograms show a distribution of all diseases,
 ![disease_hist](https://github.com/shahzina/Investigate-Medicare-Data/blob/master/images/disease_column_histogram.png)
 
 Patient percentage by disease-
+The ailments that the patients were diagnosed with are divided into 16 categories which have been stored by agency in our dataset. The following is a pie-chart showing the distribution.
 ![disease](https://github.com/shahzina/Investigate-Medicare-Data/blob/master/images/patients_by_disease.png)
 
 Patient by race-
+There are 5 races that have been identified and the remaining have been clubbed into a sixth called 'other unknown beneficiaries'. The 5 beneficiaries are white, black, hispanic, pacific islanders and native american or alaskan native beneficiaries.
 ![race](https://github.com/shahzina/Investigate-Medicare-Data/blob/master/images/patients_by_race.png)
  
 Heatmap - 
+Heatmap shows the distribution and concentration of agencies in the US. Due to missing data, some areas seem completely devoid of an agency. 
 ![heatmap](https://github.com/shahzina/Investigate-Medicare-Data/blob/master/images/map.png)
