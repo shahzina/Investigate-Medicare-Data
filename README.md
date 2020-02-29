@@ -18,3 +18,5 @@ Patient percentage by disease-
 Patient by race-
 ![race](https://github.com/shahzina/Investigate-Medicare-Data/blob/master/images/patients_by_race.png)
  
+Heatmap - 
+![heatmap](https://github.com/shahzina/Investigate-Medicare-Data/blob/master/images/map.png)
