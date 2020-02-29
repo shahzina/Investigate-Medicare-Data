@@ -12,4 +12,9 @@ The following image shows the distribution of agencies across the country and th
 The following histograms show a distribution of all diseases, 
 ![disease_hist](https://github.com/shahzina/Investigate-Medicare-Data/blob/master/images/disease_column_histogram.png)
 
+Patient percentage by disease-
+![disease](https://github.com/shahzina/Investigate-Medicare-Data/blob/master/images/patients_by_disease.png)
+
+Patient by race-
+![race](https://github.com/shahzina/Investigate-Medicare-Data/blob/master/images/patients_by_race.png)
  
